@@ -5,7 +5,7 @@ const menuData = [
         name: "Nasi Goreng Spesial",
         price: 25000,
         category: "makanan",
-        image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3133?w=400&h=300&fit=crop",
+        image: "nasgor.jpg",
         description: "Nasi goreng dengan telur, ayam, dan sayuran"
     },
     {
