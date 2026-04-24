@@ -13,31 +13,31 @@ const menuData = [
         name: "Ayam Geprek",
         price: 22000,
         category: "makanan",
-        image: "https://images.unsplash.com/photo-1579586140626-717308eb335e?w=400&h=300&fit=crop",
+        image: "geprek.jpg",
         description: "Ayam crispy dengan sambal pedas"
     },
     {
         id: 3,
         name: "Mie Goreng",
-        price: 20000,
+        price: 10000,
         category: "makanan",
-        image: "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop",
+        image: "mie.png",
         description: "Mie goreng spesial dengan bumbu rahasia"
     },
     {
         id: 4,
         name: "Es Teh Manis",
-        price: 8000,
+        price: 4000,
         category: "minuman",
-        image: "https://images.unsplash.com/photo-1623225866195-8b2d3f0a63c5?w=400&h=300&fit=crop",
+        image: "teh.jpeg",
         description: "Es teh manis segar"
     },
     {
         id: 5,
-        name: "Jus Jeruk",
-        price: 15000,
+        name: "Es Jeruk",
+        price: 5000,
         category: "minuman",
-        image: "https://images.unsplash.com/photo-1571933561358-d1b7f616b590?w=400&h=300&fit=crop",
+        image: "jeruk.jpeg",
         description: "Jus jeruk segar asli"
     },
     {
@@ -45,7 +45,7 @@ const menuData = [
         name: "Kopi Hitam",
         price: 12000,
         category: "minuman",
-        image: "https://images.unsplash.com/photo-1494314671902-399b181aab93?w=400&h=300&fit=crop",
+        image: "kopi.jpg",
         description: "Kopi hitam pekat panas"
     },
     {
@@ -53,7 +53,7 @@ const menuData = [
         name: "Pisang Goreng",
         price: 10000,
         category: "snack",
-        image: "https://images.unsplash.com/photo-1562440499-64b4a9a2c6b5?w=400&h=300&fit=crop",
+        image: "godo.jpeg",
         description: "Pisang goreng crispy"
     },
     {
@@ -61,7 +61,7 @@ const menuData = [
         name: "Martabak Manis",
         price: 35000,
         category: "snack",
-        image: "https://images.unsplash.com/photo-1626074397566-0a1a205fcd73?w=400&h=300&fit=crop",
+        image: "marmut.jpg",
         description: "Martabak manis cokelat keju"
     }
 ];
